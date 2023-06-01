@@ -34,7 +34,7 @@
     "require-dev": {
         "illuminate/console": "^8.75",
         "illuminate/database": "^8.75",
-        "illuminate/routing": "^^8.75",
+        "illuminate/routing": "^8.75",
         "mockery/mockery": ">=0.9.9",
         "phpunit/phpunit": "^9.4"
     },
